@@ -52,7 +52,7 @@ header > h1 {
 
   margin-bottom: 20px;
 
-  font-size: 3em;
+  font-size: 2.5em;
 
   text-shadow: 2px 2 px 0px #333333;
 
@@ -62,7 +62,7 @@ header > p {
 
   color: white;
 
-  font-size: 1 em;
+  font-size: 0.9 em;
 
   max-width: 600px;
 
@@ -142,7 +142,7 @@ main p {
 
   text-indent: 30px;
 
-  font-size: 1em;
+  font-size: 0.8em;
 
   line-height: 2em;
 
